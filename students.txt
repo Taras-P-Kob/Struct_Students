@@ -1,0 +1,18 @@
+Smith J.D.,123 Example Street,555-1234
+Johnson E.L.,456 Sample Avenue,   
+Doe A.B.,789 Test Road,555-5678
+Brown C.K.,321 Mockingbird Lane,555-9012
+Taylor M.Q., 963 Fictional Blvd,
+Martinez R.J., 852 Imaginary Place, 
+Lee F.N., 274 Placeholder St., 555-1357
+Davis U.V., 119 Conceptual Ct., 555-2468
+Garcia W.X., 14 Stepana Bandery St, 
+Wilson Y.Z., 218 Hypothetical Avenue, 555-1470
+Anderson T.S., 532 Fictive Road, 
+Thompson H.J., 647 Simulated Street, 555-7531
+Zvir R.R., 25 Bread St, 492-1276
+
+
+
+
+
