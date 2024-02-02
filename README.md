@@ -1,4 +1,4 @@
-![image](https://github.com/Taras-P-Kob/Struct_Students/assets/119957094/f0c6631c-2761-4a3d-99b9-83dd3187fea3)# Struct_Students
+# Struct_Students
 
 
 The task was to:
