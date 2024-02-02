@@ -7,7 +7,9 @@ Create a program that allows you to implement the solution of the task using str
 The information of the students of the group is recorded: Name and initials, address and phone number. In the absence of a phone number, there are spaces in the column corresponding to this information. Create a program that will print the phone number of the desired student, and in the absence of a phone, his or her address. 
 
 ![image](https://github.com/Taras-P-Kob/Struct_Students/assets/119957094/d5c27142-1a3c-4303-8314-1c86226652e5)
+
 How program works
 
 ![image](https://github.com/Taras-P-Kob/Struct_Students/assets/119957094/0f24c59d-756f-4f30-b553-ea0e5be27e8d)
+
 File students.txt
