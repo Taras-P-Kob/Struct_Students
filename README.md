@@ -12,6 +12,11 @@ How program works
 
 
 
+
+
+
+
+
 ![image](https://github.com/Taras-P-Kob/Struct_Students/assets/119957094/0f24c59d-756f-4f30-b553-ea0e5be27e8d)
 
 File students.txt
